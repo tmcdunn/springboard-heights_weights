@@ -5,4 +5,4 @@ This repository contains the documents for my Springboard Mini-Project on Logist
 The files in this repository are:
 
 1. This file === README.md
-2. My submission (code & documentation) === Logistic_Regression_Heights_Weights_exercises.ipynb
+2. My submission (code & documentation) === Logistic_Regression_Height_Weight_exercises.ipynb
